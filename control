@@ -1,0 +1,9 @@
+Package: com.kietha.fuckoffccgrabber
+Name: FuckOffCCGrabber
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hides the CC grabber in lockscreen!
+Maintainer: Kiet Ha
+Author: Kiet Ha
+Section: Tweaks
